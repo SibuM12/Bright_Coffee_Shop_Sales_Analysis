@@ -5,7 +5,7 @@ This project explores transactional sales data from a coffee shop environment wi
 
 The analysis follows a complete data pipeline approach, from raw data ingestion and transformation to visualisation and insight generation, ultimately translating data into actionable strategies for growth.
 
-Objectives
+## Objectives
 
 The primary goals of this analysis were to:
 Evaluate sales performance across products and time intervals
