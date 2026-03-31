@@ -34,7 +34,6 @@ Processed datasets stored within the Databricks environment for querying and ana
 
 ## Data Analysis and Visualisation
 Data exported to Microsoft Excel
-Supplemented with optional dashboards in Power BI
 Pivot tables and charts used to explore trends and patterns
 
 ## Key Calculations and Transformations
