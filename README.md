@@ -1,7 +1,3 @@
-## Bright Coffee Shop Analysis
-
-
-## Overview
 
 This project explores transactional sales data from a coffee shop environment with the aim of uncovering insights that support better business decisions and improved performance.
 
@@ -166,4 +162,3 @@ Sibulelo Mafrika
 ## Summary
 This project demonstrates how structured data analysis can transform raw transactional data into meaningful business insights. By combining data processing, SQL analysis, and visualisation techniques, the project provides a strong foundation for data-driven decision-making in a retail environment.
 
-## Summary
