@@ -1,3 +1,7 @@
+## Bright Coffee Shop 
+
+
+## Overview
 
 This project explores transactional sales data from a coffee shop environment with the aim of uncovering insights that support better business decisions and improved performance.
 
